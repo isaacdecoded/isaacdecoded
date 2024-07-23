@@ -1,4 +1,6 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=F7CE42&background=FFFFFF00&width=550&lines=Hello+there+%F0%9F%91%8B+I'm+Isaac%2C+a+Backend+Software+Developer.)](https://git.io/typing-svg)
+---
+
 
 <!--
 **isaacdecoded/isaacdecoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacdecoded&show_icons=true&locale=en&layout=compact" alt="isaacdecoded" /></p>
+
+
+
+
