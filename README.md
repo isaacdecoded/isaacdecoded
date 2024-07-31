@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=F7CE42&background=FFFFFF00&width=550&lines=Hello+there+%F0%9F%91%8B+I'm+Isaac%2C+a+Backend+Software+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=22&pause=1000&color=F7CE42&background=FFFFFF00&repeat=false&width=550&lines=Hello+there+%F0%9F%91%8B+I'm+Isaac)](https://git.io/typing-svg)
 ---
+
+I am a Software Developer who likes building backend microservices on top of event-driven architectures by applying best practices such as Clean Code, SOLID principles, and layered architectures while following a Domain-driven Design approach.
 
 
 <!--
